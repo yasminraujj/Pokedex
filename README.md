@@ -1,4 +1,4 @@
-# Pokedex ![Uploading image.png…]()
+# Pokedex ☺️
 
 Primeiro projeto com HTML, CSS E JAVASCRIP
 
